@@ -1,0 +1,2 @@
+Google Gemma Embedding (HuggingFace): https://huggingface.co/google/Gemma-Embeddings-v1.0
+Google CodeGemma (HuggingFace): https://huggingface.co/google/codegemma-2b

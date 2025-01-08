@@ -1,0 +1,10 @@
+python-dotenv
+requests
+
+langchain-community
+langchain-core
+langchain
+langchain-huggingface
+langchain-google-genai
+
+chromadb
